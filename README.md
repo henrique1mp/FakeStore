@@ -3,7 +3,7 @@
 
 **Fake Store** is a project built using Docusaurus 2, a modern static website generator, and also using FakeStoreAPI. FakeStoreAPI is a free online REST API that you can use whenever you need pseudo-real data for your e-commerce or shopping website without running any server-side code.
 
-# Fake Store Repository
+# Fake Store Repository 
 --- 
 
 This repository is built in GitHub, wich is a platform of `font-code hosting`, and Git, wich is a `Version Control System`. It contains a main folder, wich is "my-website" and contains three  wich are "Docs", "Source", and "Static".
