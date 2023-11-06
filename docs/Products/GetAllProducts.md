@@ -2,7 +2,6 @@
 sidebar_position: 1
 ---
 
-
 #  Get all products
 
 This reference shows how to use an API to get all products in a database.
