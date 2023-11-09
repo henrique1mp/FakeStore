@@ -6,7 +6,7 @@
 # Fake Store Repository 
  
 
-This repository is built in GitHub, wich is a platform of `font-code hosting`, and Git, wich is a `Version Control System`. It contains a main folder, wich is "my-website" and contains three  wich are "Docs", "Source", and "Static".
+This repository is built in GitHub, wich is a platform of `font-code hosting`, and Git, a `Version Control System`. It contains a main folder, wich is "my-website" and contains three subfolders wich are: "Docs", "Source", and "Static".
 
 # Starting the local development server
 
