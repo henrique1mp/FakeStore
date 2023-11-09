@@ -2,7 +2,10 @@
 sidebar_position: 1
 ---
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 546dee480f4b68516d8f9e7400e6cc0665ed8d8f
 #  Get all products
 
 This reference shows how to use an API to get all products in a database.
