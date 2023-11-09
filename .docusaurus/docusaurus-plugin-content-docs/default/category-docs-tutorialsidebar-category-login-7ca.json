@@ -1,0 +1,15 @@
+{
+  "title": "Login",
+  "slug": "/category/login",
+  "permalink": "/docs/category/login",
+  "navigation": {
+    "previous": {
+      "title": "Delete",
+      "permalink": "/docs/User/Delete"
+    },
+    "next": {
+      "title": "User login",
+      "permalink": "/docs/Login/userlogin"
+    }
+  }
+}

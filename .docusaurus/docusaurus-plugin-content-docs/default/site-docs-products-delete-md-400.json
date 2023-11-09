@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Products/Delete",
+  "id": "Products/Delete",
+  "title": "Delete a product",
+  "description": "This reference shows that this API will not delete the product from the database, but shows that if you successfully send data, it will return you the fake deleted product.",
+  "source": "@site/docs/Products/Delete.md",
+  "sourceDirName": "Products",
+  "slug": "/Products/Delete",
+  "permalink": "/docs/Products/Delete",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Products/Delete.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "sidebar_position": 10
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Update a product",
+    "permalink": "/docs/Products/Update"
+  },
+  "next": {
+    "title": "Cart",
+    "permalink": "/docs/category/cart"
+  }
+}

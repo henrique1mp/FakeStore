@@ -1,0 +1,186 @@
+{
+  "/__docusaurus/debug-b5f": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-7-f-8-df0"
+    }
+  },
+  "/__docusaurus/debug/config-21d": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-7-f-8-df0"
+    }
+  },
+  "/__docusaurus/debug/content-78f": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-7-f-8-df0"
+    },
+    "allContent": "allContent---docusaurus-debug-content-246-9aa"
+  },
+  "/__docusaurus/debug/globalData-acf": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-7-f-8-df0"
+    }
+  },
+  "/__docusaurus/debug/metadata-8be": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-7-f-8-df0"
+    }
+  },
+  "/__docusaurus/debug/registry-52d": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-7-f-8-df0"
+    }
+  },
+  "/__docusaurus/debug/routes-393": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-7-f-8-df0"
+    }
+  },
+  "/markdown-page-636": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---markdown-page-886-fd9"
+    },
+    "content": "content---markdown-page-393-028"
+  },
+  "/docs-337": {
+    "__comp": "__comp---theme-doc-page-1-be-9be",
+    "__context": {
+      "plugin": "plugin---docs-1-cf-3ca"
+    },
+    "versionMetadata": "versionMetadata---docs-935-398"
+  },
+  "/docs/Cart/AddCart-566": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-cart-add-cart-553-21c"
+  },
+  "/docs/Cart/DeleteCart-45b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-cart-delete-cartee-3-d79"
+  },
+  "/docs/Cart/GetAll-d4a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-cart-get-alld-09-36b"
+  },
+  "/docs/Cart/GetDateRange-873": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-cart-get-date-range-4-f-9-5f4"
+  },
+  "/docs/Cart/GetSingle-42f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-cart-get-single-263-95c"
+  },
+  "/docs/Cart/GetUserCart-304": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-cart-get-user-cart-205-7d5"
+  },
+  "/docs/Cart/LimitResults-0b9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-cart-limit-results-7-e-6-67a"
+  },
+  "/docs/Cart/SortResults-cf1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-cart-sort-resultsde-2-132"
+  },
+  "/docs/Cart/UpdateCart-efa": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-cart-update-cart-56-f-cfa"
+  },
+  "/docs/category/cart-999": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-cart-569-53c"
+  },
+  "/docs/category/login-0f0": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-login-584-620"
+  },
+  "/docs/category/products-bb5": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-products-2-f-1-460"
+  },
+  "/docs/category/user-10c": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-user-38-b-bdc"
+  },
+  "/docs/Login/userlogin-ad5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-login-userlogin-86-e-7d2"
+  },
+  "/docs/Products/AddNewProduct-814": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-products-add-new-product-7-c-8-687"
+  },
+  "/docs/Products/Delete-23e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-products-delete-400-3f9"
+  },
+  "/docs/Products/GetAllCategories-6f8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-products-get-all-categories-6-ad-919"
+  },
+  "/docs/Products/GetAllProducts-00b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-products-get-all-products-17-c-951"
+  },
+  "/docs/Products/GetInCategory-465": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-products-get-in-category-776-f24"
+  },
+  "/docs/Products/GetSingleProduct-c74": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-products-get-single-product-27-f-324"
+  },
+  "/docs/Products/LimitResults-c2f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-products-limit-resultsddb-9c9"
+  },
+  "/docs/Products/SortResults-f85": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-products-sort-results-3-f-5-42c"
+  },
+  "/docs/Products/Update-161": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-products-updatee-95-afc"
+  },
+  "/docs/User/Add-200": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-user-addb-61-276"
+  },
+  "/docs/User/Delete-9a5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-user-delete-3-b-0-91d"
+  },
+  "/docs/User/GetAllUsers-8b9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-user-get-all-usersd-43-212"
+  },
+  "/docs/User/GetSingleUser-773": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-user-get-single-user-16-c-ed8"
+  },
+  "/docs/User/LimitResults-6a0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-user-limit-resultsdde-995"
+  },
+  "/docs/User/SortResults-02c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-user-sort-results-42-e-abf"
+  },
+  "/docs/User/Update-eac": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-user-updatef-6-b-f39"
+  },
+  "/-e03": {
+    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
+    "__context": {
+      "plugin": "plugin---markdown-page-886-fd9"
+    },
+    "config": "config---5-e-9-4f3"
+  }
+}

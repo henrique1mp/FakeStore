@@ -1,0 +1,364 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "noIndex": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "tutorialSidebar": [
+      {
+        "type": "category",
+        "label": "Products",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Get all products",
+            "href": "/docs/Products/GetAllProducts",
+            "docId": "Products/GetAllProducts"
+          },
+          {
+            "type": "link",
+            "label": "Get a single product",
+            "href": "/docs/Products/GetSingleProduct",
+            "docId": "Products/GetSingleProduct"
+          },
+          {
+            "type": "link",
+            "label": "Limit results",
+            "href": "/docs/Products/LimitResults",
+            "docId": "Products/LimitResults"
+          },
+          {
+            "type": "link",
+            "label": "Sort results",
+            "href": "/docs/Products/SortResults",
+            "docId": "Products/SortResults"
+          },
+          {
+            "type": "link",
+            "label": "Get all categories",
+            "href": "/docs/Products/GetAllCategories",
+            "docId": "Products/GetAllCategories"
+          },
+          {
+            "type": "link",
+            "label": "Get products in a specific category",
+            "href": "/docs/Products/GetInCategory",
+            "docId": "Products/GetInCategory"
+          },
+          {
+            "type": "link",
+            "label": "Add new product",
+            "href": "/docs/Products/AddNewProduct",
+            "docId": "Products/AddNewProduct"
+          },
+          {
+            "type": "link",
+            "label": "Update a product",
+            "href": "/docs/Products/Update",
+            "docId": "Products/Update"
+          },
+          {
+            "type": "link",
+            "label": "Delete a product",
+            "href": "/docs/Products/Delete",
+            "docId": "Products/Delete"
+          }
+        ],
+        "href": "/docs/category/products"
+      },
+      {
+        "type": "category",
+        "label": "Cart",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Get all",
+            "href": "/docs/Cart/GetAll",
+            "docId": "Cart/GetAll"
+          },
+          {
+            "type": "link",
+            "label": "Get a single",
+            "href": "/docs/Cart/GetSingle",
+            "docId": "Cart/GetSingle"
+          },
+          {
+            "type": "link",
+            "label": "Limit results",
+            "href": "/docs/Cart/LimitResults",
+            "docId": "Cart/LimitResults"
+          },
+          {
+            "type": "link",
+            "label": "Sort results",
+            "href": "/docs/Cart/SortResults",
+            "docId": "Cart/SortResults"
+          },
+          {
+            "type": "link",
+            "label": "Get carts in date range",
+            "href": "/docs/Cart/GetDateRange",
+            "docId": "Cart/GetDateRange"
+          },
+          {
+            "type": "link",
+            "label": "Get user cart",
+            "href": "/docs/Cart/GetUserCart",
+            "docId": "Cart/GetUserCart"
+          },
+          {
+            "type": "link",
+            "label": "Add a new product",
+            "href": "/docs/Cart/AddCart",
+            "docId": "Cart/AddCart"
+          },
+          {
+            "type": "link",
+            "label": "Update a cart",
+            "href": "/docs/Cart/UpdateCart",
+            "docId": "Cart/UpdateCart"
+          },
+          {
+            "type": "link",
+            "label": "Delete a cart",
+            "href": "/docs/Cart/DeleteCart",
+            "docId": "Cart/DeleteCart"
+          }
+        ],
+        "href": "/docs/category/cart"
+      },
+      {
+        "type": "category",
+        "label": "User",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Get all",
+            "href": "/docs/User/GetAllUsers",
+            "docId": "User/GetAllUsers"
+          },
+          {
+            "type": "link",
+            "label": "Get a single",
+            "href": "/docs/User/GetSingleUser",
+            "docId": "User/GetSingleUser"
+          },
+          {
+            "type": "link",
+            "label": "Limit results",
+            "href": "/docs/User/LimitResults",
+            "docId": "User/LimitResults"
+          },
+          {
+            "type": "link",
+            "label": "Sort Results",
+            "href": "/docs/User/SortResults",
+            "docId": "User/SortResults"
+          },
+          {
+            "type": "link",
+            "label": "Add",
+            "href": "/docs/User/Add",
+            "docId": "User/Add"
+          },
+          {
+            "type": "link",
+            "label": "Update",
+            "href": "/docs/User/Update",
+            "docId": "User/Update"
+          },
+          {
+            "type": "link",
+            "label": "Delete",
+            "href": "/docs/User/Delete",
+            "docId": "User/Delete"
+          }
+        ],
+        "href": "/docs/category/user"
+      },
+      {
+        "type": "category",
+        "label": "Login",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "User login",
+            "href": "/docs/Login/userlogin",
+            "docId": "Login/userlogin"
+          }
+        ],
+        "href": "/docs/category/login"
+      }
+    ]
+  },
+  "docs": {
+    "Cart/AddCart": {
+      "id": "Cart/AddCart",
+      "title": "Add a new product",
+      "description": "This reference shows how to use APIs to add new products to the cart.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Cart/DeleteCart": {
+      "id": "Cart/DeleteCart",
+      "title": "Delete a cart",
+      "description": "This reference shows that this API will not delete the cart from the database, but shows that if you successfully send data, it will return you the fake deleted cart.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Cart/GetAll": {
+      "id": "Cart/GetAll",
+      "title": "Get all",
+      "description": "This reference shows how to use APIs to get all information about the cart.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Cart/GetDateRange": {
+      "id": "Cart/GetDateRange",
+      "title": "Get carts in date range",
+      "description": "This reference shows how to get carts in date range from a database.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Cart/GetSingle": {
+      "id": "Cart/GetSingle",
+      "title": "Get a single",
+      "description": "This reference shows how to get a single cart from the database.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Cart/GetUserCart": {
+      "id": "Cart/GetUserCart",
+      "title": "Get user cart",
+      "description": "This reference shows how to use APIs to get the user's cart from the database.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Cart/LimitResults": {
+      "id": "Cart/LimitResults",
+      "title": "Limit results",
+      "description": "This reference shows how to use APIs to limit results from a database.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Cart/SortResults": {
+      "id": "Cart/SortResults",
+      "title": "Sort results",
+      "description": "This reference shows how to use APIs to get sorted results from a database.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Cart/UpdateCart": {
+      "id": "Cart/UpdateCart",
+      "title": "Update a cart",
+      "description": "This reference show how to use APIs to update a cart from the database.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Login/userlogin": {
+      "id": "Login/userlogin",
+      "title": "User login",
+      "description": "This reference shows how to use APIs for the user to log in/sign in.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Products/AddNewProduct": {
+      "id": "Products/AddNewProduct",
+      "title": "Add new product",
+      "description": "This reference shows how to use APIs to add new product to a database.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Products/Delete": {
+      "id": "Products/Delete",
+      "title": "Delete a product",
+      "description": "This reference shows that this API will not delete the product from the database, but shows that if you successfully send data, it will return you the fake deleted product.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Products/GetAllCategories": {
+      "id": "Products/GetAllCategories",
+      "title": "Get all categories",
+      "description": "This reference shows how to use APIs to get all categories of products in a database.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Products/GetAllProducts": {
+      "id": "Products/GetAllProducts",
+      "title": "Get all products",
+      "description": "This reference shows how to use an API to get all products in a database.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Products/GetInCategory": {
+      "id": "Products/GetInCategory",
+      "title": "Get products in a specific category",
+      "description": "This reference shows how to use APIs to get products in a specific category of a database.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Products/GetSingleProduct": {
+      "id": "Products/GetSingleProduct",
+      "title": "Get a single product",
+      "description": "This reference shows how to use APIs to get a single product in a database.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Products/LimitResults": {
+      "id": "Products/LimitResults",
+      "title": "Limit results",
+      "description": "This reference shows how to use APIs to limit results of a request in a database.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Products/SortResults": {
+      "id": "Products/SortResults",
+      "title": "Sort results",
+      "description": "This reference shows how to use APIs to sort results in a database.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Products/Update": {
+      "id": "Products/Update",
+      "title": "Update a product",
+      "description": "This reference shows how to use APIs to update information of a product from the database.",
+      "sidebar": "tutorialSidebar"
+    },
+    "User/Add": {
+      "id": "User/Add",
+      "title": "Add",
+      "description": "This reference shows how to use APIs to add users in a database.",
+      "sidebar": "tutorialSidebar"
+    },
+    "User/Delete": {
+      "id": "User/Delete",
+      "title": "Delete",
+      "description": "This reference shows that this API will not delete the user from the database, but shows that if you successfully send data, it will return you the fake deleted user.",
+      "sidebar": "tutorialSidebar"
+    },
+    "User/GetAllUsers": {
+      "id": "User/GetAllUsers",
+      "title": "Get all",
+      "description": "This reference shows how to use APIs to get all users from the database.",
+      "sidebar": "tutorialSidebar"
+    },
+    "User/GetSingleUser": {
+      "id": "User/GetSingleUser",
+      "title": "Get a single",
+      "description": "This reference shows how to use APIs to get a single user from the database.",
+      "sidebar": "tutorialSidebar"
+    },
+    "User/LimitResults": {
+      "id": "User/LimitResults",
+      "title": "Limit results",
+      "description": "This reference shows how to limit results of user request in a database.",
+      "sidebar": "tutorialSidebar"
+    },
+    "User/SortResults": {
+      "id": "User/SortResults",
+      "title": "Sort Results",
+      "description": "This reference shows how to use APIs to sort the results of a request in a database.",
+      "sidebar": "tutorialSidebar"
+    },
+    "User/Update": {
+      "id": "User/Update",
+      "title": "Update",
+      "description": "This reference shows how to use APIs to update user's informations in a database.",
+      "sidebar": "tutorialSidebar"
+    }
+  }
+}

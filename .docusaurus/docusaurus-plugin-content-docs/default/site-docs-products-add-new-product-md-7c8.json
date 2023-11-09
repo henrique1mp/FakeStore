@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Products/AddNewProduct",
+  "id": "Products/AddNewProduct",
+  "title": "Add new product",
+  "description": "This reference shows how to use APIs to add new product to a database.",
+  "source": "@site/docs/Products/AddNewProduct.md",
+  "sourceDirName": "Products",
+  "slug": "/Products/AddNewProduct",
+  "permalink": "/docs/Products/AddNewProduct",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Products/AddNewProduct.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_position": 8
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Get products in a specific category",
+    "permalink": "/docs/Products/GetInCategory"
+  },
+  "next": {
+    "title": "Update a product",
+    "permalink": "/docs/Products/Update"
+  }
+}

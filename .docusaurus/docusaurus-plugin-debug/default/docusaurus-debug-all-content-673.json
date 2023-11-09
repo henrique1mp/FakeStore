@@ -1,0 +1,918 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "Next",
+          "banner": null,
+          "badge": false,
+          "noIndex": false,
+          "className": "docs-version-current",
+          "path": "/docs",
+          "tagsPath": "/docs/tags",
+          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs",
+          "editUrlLocalized": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/i18n/en/docusaurus-plugin-content-docs/current",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "C:\\Users\\henriest\\FakeStore\\my-website\\my-website\\sidebars.js",
+          "contentPath": "C:\\Users\\henriest\\FakeStore\\my-website\\my-website\\docs",
+          "contentPathLocalized": "C:\\Users\\henriest\\FakeStore\\my-website\\my-website\\i18n\\en\\docusaurus-plugin-content-docs\\current",
+          "docs": [
+            {
+              "unversionedId": "Cart/AddCart",
+              "id": "Cart/AddCart",
+              "title": "Add a new product",
+              "description": "This reference shows how to use APIs to add new products to the cart.",
+              "source": "@site/docs/Cart/AddCart.md",
+              "sourceDirName": "Cart",
+              "slug": "/Cart/AddCart",
+              "permalink": "/docs/Cart/AddCart",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Cart/AddCart.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 7,
+              "frontMatter": {
+                "sidebar_position": 7
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Get user cart",
+                "permalink": "/docs/Cart/GetUserCart"
+              },
+              "next": {
+                "title": "Update a cart",
+                "permalink": "/docs/Cart/UpdateCart"
+              }
+            },
+            {
+              "unversionedId": "Cart/DeleteCart",
+              "id": "Cart/DeleteCart",
+              "title": "Delete a cart",
+              "description": "This reference shows that this API will not delete the cart from the database, but shows that if you successfully send data, it will return you the fake deleted cart.",
+              "source": "@site/docs/Cart/DeleteCart.md",
+              "sourceDirName": "Cart",
+              "slug": "/Cart/DeleteCart",
+              "permalink": "/docs/Cart/DeleteCart",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Cart/DeleteCart.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 9,
+              "frontMatter": {
+                "sidebar_position": 9
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Update a cart",
+                "permalink": "/docs/Cart/UpdateCart"
+              },
+              "next": {
+                "title": "User",
+                "permalink": "/docs/category/user"
+              }
+            },
+            {
+              "unversionedId": "Cart/GetAll",
+              "id": "Cart/GetAll",
+              "title": "Get all",
+              "description": "This reference shows how to use APIs to get all information about the cart.",
+              "source": "@site/docs/Cart/GetAll.md",
+              "sourceDirName": "Cart",
+              "slug": "/Cart/GetAll",
+              "permalink": "/docs/Cart/GetAll",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Cart/GetAll.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Cart",
+                "permalink": "/docs/category/cart"
+              },
+              "next": {
+                "title": "Get a single",
+                "permalink": "/docs/Cart/GetSingle"
+              }
+            },
+            {
+              "unversionedId": "Cart/GetDateRange",
+              "id": "Cart/GetDateRange",
+              "title": "Get carts in date range",
+              "description": "This reference shows how to get carts in date range from a database.",
+              "source": "@site/docs/Cart/GetDateRange.md",
+              "sourceDirName": "Cart",
+              "slug": "/Cart/GetDateRange",
+              "permalink": "/docs/Cart/GetDateRange",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Cart/GetDateRange.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Sort results",
+                "permalink": "/docs/Cart/SortResults"
+              },
+              "next": {
+                "title": "Get user cart",
+                "permalink": "/docs/Cart/GetUserCart"
+              }
+            },
+            {
+              "unversionedId": "Cart/GetSingle",
+              "id": "Cart/GetSingle",
+              "title": "Get a single",
+              "description": "This reference shows how to get a single cart from the database.",
+              "source": "@site/docs/Cart/GetSingle.md",
+              "sourceDirName": "Cart",
+              "slug": "/Cart/GetSingle",
+              "permalink": "/docs/Cart/GetSingle",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Cart/GetSingle.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Get all",
+                "permalink": "/docs/Cart/GetAll"
+              },
+              "next": {
+                "title": "Limit results",
+                "permalink": "/docs/Cart/LimitResults"
+              }
+            },
+            {
+              "unversionedId": "Cart/GetUserCart",
+              "id": "Cart/GetUserCart",
+              "title": "Get user cart",
+              "description": "This reference shows how to use APIs to get the user's cart from the database.",
+              "source": "@site/docs/Cart/GetUserCart.md",
+              "sourceDirName": "Cart",
+              "slug": "/Cart/GetUserCart",
+              "permalink": "/docs/Cart/GetUserCart",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Cart/GetUserCart.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "sidebar_position": 6
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Get carts in date range",
+                "permalink": "/docs/Cart/GetDateRange"
+              },
+              "next": {
+                "title": "Add a new product",
+                "permalink": "/docs/Cart/AddCart"
+              }
+            },
+            {
+              "unversionedId": "Cart/LimitResults",
+              "id": "Cart/LimitResults",
+              "title": "Limit results",
+              "description": "This reference shows how to use APIs to limit results from a database.",
+              "source": "@site/docs/Cart/LimitResults.md",
+              "sourceDirName": "Cart",
+              "slug": "/Cart/LimitResults",
+              "permalink": "/docs/Cart/LimitResults",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Cart/LimitResults.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Get a single",
+                "permalink": "/docs/Cart/GetSingle"
+              },
+              "next": {
+                "title": "Sort results",
+                "permalink": "/docs/Cart/SortResults"
+              }
+            },
+            {
+              "unversionedId": "Cart/SortResults",
+              "id": "Cart/SortResults",
+              "title": "Sort results",
+              "description": "This reference shows how to use APIs to get sorted results from a database.",
+              "source": "@site/docs/Cart/SortResults.md",
+              "sourceDirName": "Cart",
+              "slug": "/Cart/SortResults",
+              "permalink": "/docs/Cart/SortResults",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Cart/SortResults.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Limit results",
+                "permalink": "/docs/Cart/LimitResults"
+              },
+              "next": {
+                "title": "Get carts in date range",
+                "permalink": "/docs/Cart/GetDateRange"
+              }
+            },
+            {
+              "unversionedId": "Cart/UpdateCart",
+              "id": "Cart/UpdateCart",
+              "title": "Update a cart",
+              "description": "This reference show how to use APIs to update a cart from the database.",
+              "source": "@site/docs/Cart/UpdateCart.md",
+              "sourceDirName": "Cart",
+              "slug": "/Cart/UpdateCart",
+              "permalink": "/docs/Cart/UpdateCart",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Cart/UpdateCart.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 8,
+              "frontMatter": {
+                "sidebar_position": 8
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Add a new product",
+                "permalink": "/docs/Cart/AddCart"
+              },
+              "next": {
+                "title": "Delete a cart",
+                "permalink": "/docs/Cart/DeleteCart"
+              }
+            },
+            {
+              "unversionedId": "Login/userlogin",
+              "id": "Login/userlogin",
+              "title": "User login",
+              "description": "This reference shows how to use APIs for the user to log in/sign in.",
+              "source": "@site/docs/Login/userlogin.md",
+              "sourceDirName": "Login",
+              "slug": "/Login/userlogin",
+              "permalink": "/docs/Login/userlogin",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Login/userlogin.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "position": 10
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Login",
+                "permalink": "/docs/category/login"
+              }
+            },
+            {
+              "unversionedId": "Products/AddNewProduct",
+              "id": "Products/AddNewProduct",
+              "title": "Add new product",
+              "description": "This reference shows how to use APIs to add new product to a database.",
+              "source": "@site/docs/Products/AddNewProduct.md",
+              "sourceDirName": "Products",
+              "slug": "/Products/AddNewProduct",
+              "permalink": "/docs/Products/AddNewProduct",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Products/AddNewProduct.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 8,
+              "frontMatter": {
+                "sidebar_position": 8
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Get products in a specific category",
+                "permalink": "/docs/Products/GetInCategory"
+              },
+              "next": {
+                "title": "Update a product",
+                "permalink": "/docs/Products/Update"
+              }
+            },
+            {
+              "unversionedId": "Products/Delete",
+              "id": "Products/Delete",
+              "title": "Delete a product",
+              "description": "This reference shows that this API will not delete the product from the database, but shows that if you successfully send data, it will return you the fake deleted product.",
+              "source": "@site/docs/Products/Delete.md",
+              "sourceDirName": "Products",
+              "slug": "/Products/Delete",
+              "permalink": "/docs/Products/Delete",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Products/Delete.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 10,
+              "frontMatter": {
+                "sidebar_position": 10
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Update a product",
+                "permalink": "/docs/Products/Update"
+              },
+              "next": {
+                "title": "Cart",
+                "permalink": "/docs/category/cart"
+              }
+            },
+            {
+              "unversionedId": "Products/GetAllCategories",
+              "id": "Products/GetAllCategories",
+              "title": "Get all categories",
+              "description": "This reference shows how to use APIs to get all categories of products in a database.",
+              "source": "@site/docs/Products/GetAllCategories.md",
+              "sourceDirName": "Products",
+              "slug": "/Products/GetAllCategories",
+              "permalink": "/docs/Products/GetAllCategories",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Products/GetAllCategories.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "sidebar_position": 6
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Sort results",
+                "permalink": "/docs/Products/SortResults"
+              },
+              "next": {
+                "title": "Get products in a specific category",
+                "permalink": "/docs/Products/GetInCategory"
+              }
+            },
+            {
+              "unversionedId": "Products/GetAllProducts",
+              "id": "Products/GetAllProducts",
+              "title": "Get all products",
+              "description": "This reference shows how to use an API to get all products in a database.",
+              "source": "@site/docs/Products/GetAllProducts.md",
+              "sourceDirName": "Products",
+              "slug": "/Products/GetAllProducts",
+              "permalink": "/docs/Products/GetAllProducts",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Products/GetAllProducts.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Products",
+                "permalink": "/docs/category/products"
+              },
+              "next": {
+                "title": "Get a single product",
+                "permalink": "/docs/Products/GetSingleProduct"
+              }
+            },
+            {
+              "unversionedId": "Products/GetInCategory",
+              "id": "Products/GetInCategory",
+              "title": "Get products in a specific category",
+              "description": "This reference shows how to use APIs to get products in a specific category of a database.",
+              "source": "@site/docs/Products/GetInCategory.md",
+              "sourceDirName": "Products",
+              "slug": "/Products/GetInCategory",
+              "permalink": "/docs/Products/GetInCategory",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Products/GetInCategory.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 7,
+              "frontMatter": {
+                "sidebar_position": 7
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Get all categories",
+                "permalink": "/docs/Products/GetAllCategories"
+              },
+              "next": {
+                "title": "Add new product",
+                "permalink": "/docs/Products/AddNewProduct"
+              }
+            },
+            {
+              "unversionedId": "Products/GetSingleProduct",
+              "id": "Products/GetSingleProduct",
+              "title": "Get a single product",
+              "description": "This reference shows how to use APIs to get a single product in a database.",
+              "source": "@site/docs/Products/GetSingleProduct.md",
+              "sourceDirName": "Products",
+              "slug": "/Products/GetSingleProduct",
+              "permalink": "/docs/Products/GetSingleProduct",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Products/GetSingleProduct.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Get all products",
+                "permalink": "/docs/Products/GetAllProducts"
+              },
+              "next": {
+                "title": "Limit results",
+                "permalink": "/docs/Products/LimitResults"
+              }
+            },
+            {
+              "unversionedId": "Products/LimitResults",
+              "id": "Products/LimitResults",
+              "title": "Limit results",
+              "description": "This reference shows how to use APIs to limit results of a request in a database.",
+              "source": "@site/docs/Products/LimitResults.md",
+              "sourceDirName": "Products",
+              "slug": "/Products/LimitResults",
+              "permalink": "/docs/Products/LimitResults",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Products/LimitResults.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Get a single product",
+                "permalink": "/docs/Products/GetSingleProduct"
+              },
+              "next": {
+                "title": "Sort results",
+                "permalink": "/docs/Products/SortResults"
+              }
+            },
+            {
+              "unversionedId": "Products/SortResults",
+              "id": "Products/SortResults",
+              "title": "Sort results",
+              "description": "This reference shows how to use APIs to sort results in a database.",
+              "source": "@site/docs/Products/SortResults.md",
+              "sourceDirName": "Products",
+              "slug": "/Products/SortResults",
+              "permalink": "/docs/Products/SortResults",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Products/SortResults.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Limit results",
+                "permalink": "/docs/Products/LimitResults"
+              },
+              "next": {
+                "title": "Get all categories",
+                "permalink": "/docs/Products/GetAllCategories"
+              }
+            },
+            {
+              "unversionedId": "Products/Update",
+              "id": "Products/Update",
+              "title": "Update a product",
+              "description": "This reference shows how to use APIs to update information of a product from the database.",
+              "source": "@site/docs/Products/Update.md",
+              "sourceDirName": "Products",
+              "slug": "/Products/Update",
+              "permalink": "/docs/Products/Update",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Products/Update.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 9,
+              "frontMatter": {
+                "sidebar_position": 9
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Add new product",
+                "permalink": "/docs/Products/AddNewProduct"
+              },
+              "next": {
+                "title": "Delete a product",
+                "permalink": "/docs/Products/Delete"
+              }
+            },
+            {
+              "unversionedId": "User/Add",
+              "id": "User/Add",
+              "title": "Add",
+              "description": "This reference shows how to use APIs to add users in a database.",
+              "source": "@site/docs/User/Add.md",
+              "sourceDirName": "User",
+              "slug": "/User/Add",
+              "permalink": "/docs/User/Add",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/User/Add.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Sort Results",
+                "permalink": "/docs/User/SortResults"
+              },
+              "next": {
+                "title": "Update",
+                "permalink": "/docs/User/Update"
+              }
+            },
+            {
+              "unversionedId": "User/Delete",
+              "id": "User/Delete",
+              "title": "Delete",
+              "description": "This reference shows that this API will not delete the user from the database, but shows that if you successfully send data, it will return you the fake deleted user.",
+              "source": "@site/docs/User/Delete.md",
+              "sourceDirName": "User",
+              "slug": "/User/Delete",
+              "permalink": "/docs/User/Delete",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/User/Delete.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 7,
+              "frontMatter": {
+                "sidebar_position": 7
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Update",
+                "permalink": "/docs/User/Update"
+              },
+              "next": {
+                "title": "Login",
+                "permalink": "/docs/category/login"
+              }
+            },
+            {
+              "unversionedId": "User/GetAllUsers",
+              "id": "User/GetAllUsers",
+              "title": "Get all",
+              "description": "This reference shows how to use APIs to get all users from the database.",
+              "source": "@site/docs/User/GetAllUsers.md",
+              "sourceDirName": "User",
+              "slug": "/User/GetAllUsers",
+              "permalink": "/docs/User/GetAllUsers",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/User/GetAllUsers.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "User",
+                "permalink": "/docs/category/user"
+              },
+              "next": {
+                "title": "Get a single",
+                "permalink": "/docs/User/GetSingleUser"
+              }
+            },
+            {
+              "unversionedId": "User/GetSingleUser",
+              "id": "User/GetSingleUser",
+              "title": "Get a single",
+              "description": "This reference shows how to use APIs to get a single user from the database.",
+              "source": "@site/docs/User/GetSingleUser.md",
+              "sourceDirName": "User",
+              "slug": "/User/GetSingleUser",
+              "permalink": "/docs/User/GetSingleUser",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/User/GetSingleUser.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Get all",
+                "permalink": "/docs/User/GetAllUsers"
+              },
+              "next": {
+                "title": "Limit results",
+                "permalink": "/docs/User/LimitResults"
+              }
+            },
+            {
+              "unversionedId": "User/LimitResults",
+              "id": "User/LimitResults",
+              "title": "Limit results",
+              "description": "This reference shows how to limit results of user request in a database.",
+              "source": "@site/docs/User/LimitResults.md",
+              "sourceDirName": "User",
+              "slug": "/User/LimitResults",
+              "permalink": "/docs/User/LimitResults",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/User/LimitResults.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Get a single",
+                "permalink": "/docs/User/GetSingleUser"
+              },
+              "next": {
+                "title": "Sort Results",
+                "permalink": "/docs/User/SortResults"
+              }
+            },
+            {
+              "unversionedId": "User/SortResults",
+              "id": "User/SortResults",
+              "title": "Sort Results",
+              "description": "This reference shows how to use APIs to sort the results of a request in a database.",
+              "source": "@site/docs/User/SortResults.md",
+              "sourceDirName": "User",
+              "slug": "/User/SortResults",
+              "permalink": "/docs/User/SortResults",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/User/SortResults.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Limit results",
+                "permalink": "/docs/User/LimitResults"
+              },
+              "next": {
+                "title": "Add",
+                "permalink": "/docs/User/Add"
+              }
+            },
+            {
+              "unversionedId": "User/Update",
+              "id": "User/Update",
+              "title": "Update",
+              "description": "This reference shows how to use APIs to update user's informations in a database.",
+              "source": "@site/docs/User/Update.md",
+              "sourceDirName": "User",
+              "slug": "/User/Update",
+              "permalink": "/docs/User/Update",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/User/Update.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "sidebar_position": 6
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Add",
+                "permalink": "/docs/User/Add"
+              },
+              "next": {
+                "title": "Delete",
+                "permalink": "/docs/User/Delete"
+              }
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "tutorialSidebar": [
+              {
+                "type": "category",
+                "label": "Products",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Products/GetAllProducts"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Products/GetSingleProduct"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Products/LimitResults"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Products/SortResults"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Products/GetAllCategories"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Products/GetInCategory"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Products/AddNewProduct"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Products/Update"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Products/Delete"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "slug": "/category/products",
+                  "permalink": "/docs/category/products"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Cart",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Cart/GetAll"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Cart/GetSingle"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Cart/LimitResults"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Cart/SortResults"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Cart/GetDateRange"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Cart/GetUserCart"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Cart/AddCart"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Cart/UpdateCart"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Cart/DeleteCart"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "slug": "/category/cart",
+                  "permalink": "/docs/category/cart"
+                }
+              },
+              {
+                "type": "category",
+                "label": "User",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "User/GetAllUsers"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "User/GetSingleUser"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "User/LimitResults"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "User/SortResults"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "User/Add"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "User/Update"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "User/Delete"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "slug": "/category/user",
+                  "permalink": "/docs/category/user"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Login",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Login/userlogin"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "slug": "/category/login",
+                  "permalink": "/docs/category/login"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogSidebarTitle": "Recent posts",
+      "blogPosts": [],
+      "blogListPaginated": [],
+      "blogTags": {},
+      "blogTagsListPath": "/blog/tags",
+      "blogTagsPaginated": []
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/",
+        "source": "@site/src/pages/index.js"
+      },
+      {
+        "type": "mdx",
+        "permalink": "/markdown-page",
+        "source": "@site/src/pages/markdown-page.md",
+        "title": "Markdown page example",
+        "description": "You don't need React to write simple standalone pages.",
+        "frontMatter": {
+          "title": "Markdown page example"
+        }
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {},
+  "docusaurus-theme-classic": {},
+  "docusaurus-bootstrap-plugin": {},
+  "docusaurus-mdx-fallback-plugin": {}
+}

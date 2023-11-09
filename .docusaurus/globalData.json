@@ -1,0 +1,178 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "Products/GetAllProducts",
+          "docs": [
+            {
+              "id": "Cart/AddCart",
+              "path": "/docs/Cart/AddCart",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Cart/DeleteCart",
+              "path": "/docs/Cart/DeleteCart",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Cart/GetAll",
+              "path": "/docs/Cart/GetAll",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Cart/GetDateRange",
+              "path": "/docs/Cart/GetDateRange",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Cart/GetSingle",
+              "path": "/docs/Cart/GetSingle",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Cart/GetUserCart",
+              "path": "/docs/Cart/GetUserCart",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Cart/LimitResults",
+              "path": "/docs/Cart/LimitResults",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Cart/SortResults",
+              "path": "/docs/Cart/SortResults",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Cart/UpdateCart",
+              "path": "/docs/Cart/UpdateCart",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Login/userlogin",
+              "path": "/docs/Login/userlogin",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Products/AddNewProduct",
+              "path": "/docs/Products/AddNewProduct",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Products/Delete",
+              "path": "/docs/Products/Delete",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Products/GetAllCategories",
+              "path": "/docs/Products/GetAllCategories",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Products/GetAllProducts",
+              "path": "/docs/Products/GetAllProducts",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Products/GetInCategory",
+              "path": "/docs/Products/GetInCategory",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Products/GetSingleProduct",
+              "path": "/docs/Products/GetSingleProduct",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Products/LimitResults",
+              "path": "/docs/Products/LimitResults",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Products/SortResults",
+              "path": "/docs/Products/SortResults",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Products/Update",
+              "path": "/docs/Products/Update",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "User/Add",
+              "path": "/docs/User/Add",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "User/Delete",
+              "path": "/docs/User/Delete",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "User/GetAllUsers",
+              "path": "/docs/User/GetAllUsers",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "User/GetSingleUser",
+              "path": "/docs/User/GetSingleUser",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "User/LimitResults",
+              "path": "/docs/User/LimitResults",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "User/SortResults",
+              "path": "/docs/User/SortResults",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "User/Update",
+              "path": "/docs/User/Update",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/products",
+              "path": "/docs/category/products",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/cart",
+              "path": "/docs/category/cart",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/user",
+              "path": "/docs/category/user",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/login",
+              "path": "/docs/category/login",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/category/products",
+                "label": "Products"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}
