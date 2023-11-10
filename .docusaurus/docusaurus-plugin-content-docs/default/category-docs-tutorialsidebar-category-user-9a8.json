@@ -1,0 +1,15 @@
+{
+  "title": "User",
+  "slug": "/category/user",
+  "permalink": "/docs/category/user",
+  "navigation": {
+    "previous": {
+      "title": "Delete a cart",
+      "permalink": "/docs/Cart/DeleteCart"
+    },
+    "next": {
+      "title": "Get all",
+      "permalink": "/docs/User/GetAllUsers"
+    }
+  }
+}

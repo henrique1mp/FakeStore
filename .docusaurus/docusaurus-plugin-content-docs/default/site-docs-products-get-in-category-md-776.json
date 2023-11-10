@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Products/GetInCategory",
+  "id": "Products/GetInCategory",
+  "title": "Get products in a specific category",
+  "description": "This reference shows how to use APIs to get products in a specific category of a database.",
+  "source": "@site/docs/Products/GetInCategory.md",
+  "sourceDirName": "Products",
+  "slug": "/Products/GetInCategory",
+  "permalink": "/docs/Products/GetInCategory",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Products/GetInCategory.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Get all categories",
+    "permalink": "/docs/Products/GetAllCategories"
+  },
+  "next": {
+    "title": "Add new product",
+    "permalink": "/docs/Products/AddNewProduct"
+  }
+}

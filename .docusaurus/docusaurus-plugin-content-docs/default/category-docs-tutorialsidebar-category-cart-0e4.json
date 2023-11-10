@@ -1,0 +1,15 @@
+{
+  "title": "Cart",
+  "slug": "/category/cart",
+  "permalink": "/docs/category/cart",
+  "navigation": {
+    "previous": {
+      "title": "Delete a product",
+      "permalink": "/docs/Products/Delete"
+    },
+    "next": {
+      "title": "Get all",
+      "permalink": "/docs/Cart/GetAll"
+    }
+  }
+}

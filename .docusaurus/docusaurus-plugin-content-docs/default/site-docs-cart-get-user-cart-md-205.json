@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Cart/GetUserCart",
+  "id": "Cart/GetUserCart",
+  "title": "Get user cart",
+  "description": "This reference shows how to use APIs to get the user's cart from the database.",
+  "source": "@site/docs/Cart/GetUserCart.md",
+  "sourceDirName": "Cart",
+  "slug": "/Cart/GetUserCart",
+  "permalink": "/docs/Cart/GetUserCart",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Cart/GetUserCart.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Get carts in date range",
+    "permalink": "/docs/Cart/GetDateRange"
+  },
+  "next": {
+    "title": "Add a new product",
+    "permalink": "/docs/Cart/AddCart"
+  }
+}

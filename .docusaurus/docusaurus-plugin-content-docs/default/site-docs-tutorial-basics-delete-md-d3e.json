@@ -1,0 +1,27 @@
+{
+  "unversionedId": "tutorial-basics/Delete",
+  "id": "tutorial-basics/Delete",
+  "title": "Delete a product",
+  "description": "",
+  "source": "@site/docs/tutorial-basics/Delete.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/Delete",
+  "permalink": "/docs/tutorial-basics/Delete",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/Delete.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "sidebar_position": 10
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Update a product",
+    "permalink": "/docs/tutorial-basics/Update"
+  },
+  "next": {
+    "title": "Cart",
+    "permalink": "/docs/category/cart"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "tutorial-basics/GetInCategory",
+  "id": "tutorial-basics/GetInCategory",
+  "title": "Get in category",
+  "description": "",
+  "source": "@site/docs/tutorial-basics/GetInCategory.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/GetInCategory",
+  "permalink": "/docs/tutorial-basics/GetInCategory",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/GetInCategory.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Get all categories",
+    "permalink": "/docs/tutorial-basics/GetAllCategories"
+  },
+  "next": {
+    "title": "Add new product",
+    "permalink": "/docs/tutorial-basics/AddNewProduct"
+  }
+}

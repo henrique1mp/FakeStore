@@ -1,0 +1,27 @@
+{
+  "unversionedId": "tutorial-basics/AddNewProduct",
+  "id": "tutorial-basics/AddNewProduct",
+  "title": "Add new product",
+  "description": "",
+  "source": "@site/docs/tutorial-basics/AddNewProduct.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/AddNewProduct",
+  "permalink": "/docs/tutorial-basics/AddNewProduct",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/AddNewProduct.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_position": 8
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Get in category",
+    "permalink": "/docs/tutorial-basics/GetInCategory"
+  },
+  "next": {
+    "title": "Update a product",
+    "permalink": "/docs/tutorial-basics/Update"
+  }
+}

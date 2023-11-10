@@ -1,0 +1,27 @@
+{
+  "unversionedId": "tutorial-basics/GetSingleProduct",
+  "id": "tutorial-basics/GetSingleProduct",
+  "title": "Get a single product",
+  "description": "",
+  "source": "@site/docs/tutorial-basics/GetSingleProduct.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/GetSingleProduct",
+  "permalink": "/docs/tutorial-basics/GetSingleProduct",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/GetSingleProduct.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Get all products",
+    "permalink": "/docs/tutorial-basics/GetAllProducts"
+  },
+  "next": {
+    "title": "Limit results",
+    "permalink": "/docs/tutorial-basics/LimitResults"
+  }
+}

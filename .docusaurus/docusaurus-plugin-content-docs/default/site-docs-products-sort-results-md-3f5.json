@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Products/SortResults",
+  "id": "Products/SortResults",
+  "title": "Sort results",
+  "description": "This reference shows how to use APIs to sort results in a database.",
+  "source": "@site/docs/Products/SortResults.md",
+  "sourceDirName": "Products",
+  "slug": "/Products/SortResults",
+  "permalink": "/docs/Products/SortResults",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Products/SortResults.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Limit results",
+    "permalink": "/docs/Products/LimitResults"
+  },
+  "next": {
+    "title": "Get all categories",
+    "permalink": "/docs/Products/GetAllCategories"
+  }
+}

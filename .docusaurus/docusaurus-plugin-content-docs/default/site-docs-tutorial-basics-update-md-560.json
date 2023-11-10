@@ -1,0 +1,27 @@
+{
+  "unversionedId": "tutorial-basics/Update",
+  "id": "tutorial-basics/Update",
+  "title": "Update a product",
+  "description": "",
+  "source": "@site/docs/tutorial-basics/Update.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/Update",
+  "permalink": "/docs/tutorial-basics/Update",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/Update.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "sidebar_position": 9
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Add new product",
+    "permalink": "/docs/tutorial-basics/AddNewProduct"
+  },
+  "next": {
+    "title": "Delete a product",
+    "permalink": "/docs/tutorial-basics/Delete"
+  }
+}

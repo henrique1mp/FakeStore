@@ -1,0 +1,27 @@
+{
+  "unversionedId": "tutorial-extras/LimitResults",
+  "id": "tutorial-extras/LimitResults",
+  "title": "Limit results",
+  "description": "This reference shows how to use APIs to limit results from a database.",
+  "source": "@site/docs/tutorial-extras/LimitResults.md",
+  "sourceDirName": "tutorial-extras",
+  "slug": "/tutorial-extras/LimitResults",
+  "permalink": "/FakeStoreAPI/docs/tutorial-extras/LimitResults",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-extras/LimitResults.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Get a single",
+    "permalink": "/FakeStoreAPI/docs/tutorial-extras/GetSingle"
+  },
+  "next": {
+    "title": "Sort results",
+    "permalink": "/FakeStoreAPI/docs/tutorial-extras/SortResults"
+  }
+}

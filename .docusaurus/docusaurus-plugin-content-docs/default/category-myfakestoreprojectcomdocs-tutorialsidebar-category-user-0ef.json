@@ -1,0 +1,15 @@
+{
+  "title": "User",
+  "slug": "/category/user",
+  "permalink": "/myfakestoreproject.com/docs/category/user",
+  "navigation": {
+    "previous": {
+      "title": "Delete a cart",
+      "permalink": "/myfakestoreproject.com/docs/tutorial-extras/DeleteCart"
+    },
+    "next": {
+      "title": "Get all",
+      "permalink": "/myfakestoreproject.com/docs/User/GetAllUsers"
+    }
+  }
+}

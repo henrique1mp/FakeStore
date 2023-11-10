@@ -1,0 +1,15 @@
+{
+  "title": "Login",
+  "slug": "/category/login",
+  "permalink": "/FakeStoreAPI/docs/category/login",
+  "navigation": {
+    "previous": {
+      "title": "Delete",
+      "permalink": "/FakeStoreAPI/docs/User/Delete"
+    },
+    "next": {
+      "title": "User login",
+      "permalink": "/FakeStoreAPI/docs/Login/userlogin"
+    }
+  }
+}

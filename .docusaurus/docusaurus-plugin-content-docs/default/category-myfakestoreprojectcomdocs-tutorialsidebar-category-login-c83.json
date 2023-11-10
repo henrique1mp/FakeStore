@@ -1,0 +1,15 @@
+{
+  "title": "Login",
+  "slug": "/category/login",
+  "permalink": "/myfakestoreproject.com/docs/category/login",
+  "navigation": {
+    "previous": {
+      "title": "Delete",
+      "permalink": "/myfakestoreproject.com/docs/User/Delete"
+    },
+    "next": {
+      "title": "User login",
+      "permalink": "/myfakestoreproject.com/docs/Login/userlogin"
+    }
+  }
+}

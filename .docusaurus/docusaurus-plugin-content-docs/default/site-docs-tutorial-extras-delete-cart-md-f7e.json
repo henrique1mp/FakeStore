@@ -1,0 +1,27 @@
+{
+  "unversionedId": "tutorial-extras/DeleteCart",
+  "id": "tutorial-extras/DeleteCart",
+  "title": "Delete a cart",
+  "description": "This reference shows that this API will not delete the cart from the database, but shows that if you successfully send data, it will return you the fake deleted cart.",
+  "source": "@site/docs/tutorial-extras/DeleteCart.md",
+  "sourceDirName": "tutorial-extras",
+  "slug": "/tutorial-extras/DeleteCart",
+  "permalink": "/FakeStoreAPI/docs/tutorial-extras/DeleteCart",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-extras/DeleteCart.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "sidebar_position": 9
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Update a cart",
+    "permalink": "/FakeStoreAPI/docs/tutorial-extras/UpdateCart"
+  },
+  "next": {
+    "title": "User",
+    "permalink": "/FakeStoreAPI/docs/category/user"
+  }
+}

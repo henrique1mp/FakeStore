@@ -1,0 +1,11 @@
+{
+  "title": "Products",
+  "slug": "/category/products",
+  "permalink": "/myfakestoreproject.com/docs/category/products",
+  "navigation": {
+    "next": {
+      "title": "Get all products",
+      "permalink": "/myfakestoreproject.com/docs/Products/GetAllProducts"
+    }
+  }
+}
